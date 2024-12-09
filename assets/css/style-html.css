@@ -9,10 +9,13 @@ body {
 header {
     background-color: #004080;
     color: white;
-    padding: 1rem;
+    padding: 60px;
     text-align: center;
 }
-
+.logo-header{
+    max-width: 100px;
+    float: left;
+}
 header nav a {
     color: white;
     margin: 0 1rem;
@@ -76,7 +79,7 @@ footer {
 .texto-footer{
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 200;
+    font-weight: 500;
     font-style: normal;
     font-size: 15px;
 }
