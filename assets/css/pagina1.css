@@ -8,9 +8,9 @@ header{
 }
 footer{
     padding: 30px;
-    background-color: antiquewhite;
+    background-color: #52658C;
     bottom: 0;
     position: fixed;
-    width: 90%;
+    width: 100%;
     text-align: center;
 }
