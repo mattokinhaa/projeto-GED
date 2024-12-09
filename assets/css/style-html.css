@@ -62,15 +62,21 @@ form button:hover {
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 footer {
     position:fixed;
     left:0;
     bottom:0;
     width:100%;
-    font-size: 15px;
-    background-color:#52658C;
+    background-color:#3c568b;
     color: black;
     text-align:center;
     padding: 10px;
   }
+.texto-footer{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 15px;
+}
