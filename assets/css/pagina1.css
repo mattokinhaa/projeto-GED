@@ -6,3 +6,11 @@ header{
     padding: 30px;
     background-color: antiquewhite;
 }
+footer{
+    padding: 30px;
+    background-color: antiquewhite;
+    bottom: 0;
+    position: fixed;
+    width: 90%;
+    text-align: center;
+}
