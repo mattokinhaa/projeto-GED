@@ -69,7 +69,8 @@ footer {
     bottom:0;
     width:100%;
     font-size: 15px;
-    background-color:lightsteelblue;
+    background-color:#52658C;
     color: black;
     text-align:center;
+    padding: 10px;
   }
