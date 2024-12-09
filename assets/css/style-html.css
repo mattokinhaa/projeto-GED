@@ -9,11 +9,12 @@ body {
 header {
     background-color: #004080;
     color: white;
-    padding: 60px;
+    padding: 40px;
     text-align: center;
 }
 .logo-header{
-    max-width: 100px;
+    max-width: 180px;
+    margin-top: -35px;
     float: left;
 }
 header nav a {
